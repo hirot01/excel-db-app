@@ -1,0 +1,13 @@
+# ignore rules
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.vscode/
+.DS_Store
+Thumbs.db
