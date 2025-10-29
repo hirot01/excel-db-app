@@ -992,3 +992,5 @@ if IS_ADMIN and tab_logs is not None:
 
 st.markdown("---")
 st.caption("列マッピング＋“種別”自動抽出に対応。RBACでアップロード/新規は一般可、編集/削除は管理者限定、閲覧・検索は全ユーザー可。")
+
+# test commit from feature/inline-editor
